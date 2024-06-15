@@ -1,0 +1,22 @@
+body{
+
+    background-image:url(Img/fond.jpg);
+    background-size: cover;
+   
+ }
+.imagewp{
+
+    width: 350px;
+    height: auto;
+    border-radius: 25px;
+    opacity: 0.5;
+    position: unset;
+    margin-top: 490px;
+    justify-content: center;
+    align-self:center;
+    display: block;
+    margin: auto;
+
+
+}
+
